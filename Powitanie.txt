@@ -1,6 +1,6 @@
 Witaj w naszej aplikacji!
 
-Wersja: 1.0
-Język: niemiecki / angielski / hiszpański
+Wersja: 1.1
+Język: niemiecki / angielski / hiszpański / rosyjski
 
 Dziękujemy za korzystanie z naszych usług.
